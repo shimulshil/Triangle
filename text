@@ -1,0 +1,6 @@
+There are 4 types of condition to verify the triangle:
+Consider A, B and C as 3 sides arm of triangle then
+1.  Not Triangle -> If A or B or C less than or equal to zero
+2. Equilateral Triangle-> If A equals B equals C (All sides equal)
+3. Isosceles Triangle -> If (A equals B and not equals C) OR (B equals C and not equals A)
+4. Scalene Triangle -> If (A not equals B not equals C) (All sides different)
